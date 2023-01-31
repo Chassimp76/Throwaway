@@ -1,3 +1,3 @@
 # Throwaway
 
-This is a readmen file
+This is a readme file
